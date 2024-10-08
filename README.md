@@ -1,2 +1,2 @@
 # ontogenia-tests
-Personal test related to the ontogenia project
+Personal tests related to the ontogenia project
